@@ -1,7 +1,13 @@
-This is the Assignment Deliverable for session 4. We look at importing some basic libraries in this assignment.
+# This is the Assignment Deliverable for session 4. We look at importing some basic libraries in this assignment.
 
 We examine the manipulation of files and folders location here. There are 7 exercises which test our application of os, numpy and glob.
 Although up till today, I still really wonder where is the relevance of Data Science when there is no manipulation of hardcore statistics.
+
+# Installation of required modules
+
+```
+pip install -r requirements_S4.txt
+```
 
 This assignment is about the annotation of satellites which follows a naming convention of the following in a text file
 {DATE}_{TIME}_SN{SATELLITE_NUMBER}_QUICKVIEW_VISUAL_{VERSION}_{UNIQUE_REGION}.txt
