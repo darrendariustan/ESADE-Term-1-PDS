@@ -1,3 +1,6 @@
+# Important Update
+Please refer to the file titled Session_4_Assignment_new as the relative file path has been updated
+
 # This is the Assignment Deliverable for session 4. We look at importing some basic libraries in this assignment.
 
 We examine the manipulation of files and folders location here. There are 7 exercises which test our application of os, numpy and glob.
