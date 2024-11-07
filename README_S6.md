@@ -19,5 +19,7 @@ As an overview, there are 2 exercises below that demonstrates the application of
    
    b. Total Overall Passengers in whole Titanic
 
-# Requirements File
-Kindly see requirements_s6.txt
+# Installation of required libraries
+```
+pip install -r requirements_S6.txt
+```
