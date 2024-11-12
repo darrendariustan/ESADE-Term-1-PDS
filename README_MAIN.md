@@ -9,6 +9,7 @@ This repository contains assignments for the Python for Data Science module. Eac
 - [Session 3 Assignment](https://github.com/darrendariustan/ESADE-Term-1-PDS/tree/Session3)
 - [Session 4 Assignment](https://github.com/darrendariustan/ESADE-Term-1-PDS/tree/Session4)
 - [Session 5 Assignment](https://github.com/darrendariustan/ESADE-Term-1-PDS/tree/Session5)
+- [Session 6 Assignment](https://github.com/darrendariustan/ESADE-Term-1-PDS/tree/Session6)
 
 ## How to Use
 
